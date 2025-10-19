@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100095208485891",
+    "61571138559424",
     ""
   ],
   "whiteListMode": {
@@ -26,7 +26,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "Toji",
-  "ownerlink": "https://www.facebook.com/RavennMaster",
+  "ownerlink": "https://www.facebook.com/DiwateDosy",
   "prefix": "/",
   "database": {
     "type": "sqlite",
